@@ -1,0 +1,13 @@
+main {
+  text-align: center;
+  vertical-align: center;
+  line-height: 100vh;
+}
+
+label {
+  margin-right: 10px;
+}
+
+label, input, .submit {
+  margin-top: 10px;
+}
